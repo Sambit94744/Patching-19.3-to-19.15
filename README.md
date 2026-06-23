@@ -17,5 +17,13 @@ To Know the Oracle complet version.
 
 To know the entire version with patch.
 
+<img width="421" height="67" alt="Screenshot 2026-06-23 074805" src="https://github.com/user-attachments/assets/97817830-b2b8-4795-8ecd-74b5ad3c0ea2" />
+
+Another to check all the patching activities.
+
+<img width="1252" height="707" alt="Screenshot 2026-06-23 074931" src="https://github.com/user-attachments/assets/6a0d09a4-8956-4e38-93d8-4445dbc84f1a" />
+
+
+
 
 
